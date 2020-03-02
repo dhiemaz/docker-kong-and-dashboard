@@ -20,6 +20,11 @@ or
 $docker-compose -f "docker-compose.yml" up
 ```
 
+# FAQ (Frequently Asked Questions)
+_Q_ : I am facing an issue "ERROR: for kong-dashboard  Container "b59f0c0c21e4" is unhealthy." what should I do?
+
+_A_ : You can try creating these folders `kong` or `postgresql` in the same folder with `docker-compose.yml` file, check whether it solve the issue. Here I was facing the same issue and creating those folder solve it.
+
 
 
 
