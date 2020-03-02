@@ -1,4 +1,4 @@
-# docker-kong-and-dashboard
+# Docker compose for Kong API Gateway and Dashboard
 Docker compose for running Kong API gateway along with Kong dashboard
 
 ## Requirement
