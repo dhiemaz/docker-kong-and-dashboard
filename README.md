@@ -3,7 +3,7 @@ Docker compose for running Kong API gateway along with Kong dashboard
 
 # Requirement
 * Operating System (MacOS, Windows, Linux)
-* Docker 19.03.5
+* Docker (tested with version 19.03.5)
 
 # How to run
 * If you haven't installed docker inside your operating system, then you must install it first. To install docker, please refer to docker installation which you can easily find on the internet.
